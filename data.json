@@ -1,0 +1,22 @@
+[
+  {
+    "nombre": "Lote 1",
+    "superficie": 1000,
+    "estadoLote": "DISPONIBLE",
+    "posicionLote": {
+      "x": 10.0,
+      "y": 20.0,
+      "z": 5.0
+    }
+  },
+  {
+    "nombre": "Lote 2",
+    "superficie": 1200,
+    "estadoLote": "RESERVADO",
+    "posicionLote": {
+      "x": 15.0,
+      "y": 25.0,
+      "z": 6.0
+    }
+  }
+]
